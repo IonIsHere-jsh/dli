@@ -21,5 +21,5 @@
 ```
 
 <b> jetson image
-![화면 캡처 2024-09-25 160208](https://github.com/user-attachments/assets/9b240b67-1993-4986-961a-2e1574a537eb)
 ![화면 캡처 2024-09-25 160244](https://github.com/user-attachments/assets/5eaf3725-e385-4ce7-b3f7-d62533d6f838)
+![화면 캡처 2024-09-25 160208](https://github.com/user-attachments/assets/9b240b67-1993-4986-961a-2e1574a537eb)
