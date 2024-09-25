@@ -23,3 +23,8 @@
 <b> jetson image
 ![화면 캡처 2024-09-25 160244](https://github.com/user-attachments/assets/5eaf3725-e385-4ce7-b3f7-d62533d6f838)
 ![화면 캡처 2024-09-25 160208](https://github.com/user-attachments/assets/9b240b67-1993-4986-961a-2e1574a537eb)
+
+<b? jeppack4.6 download 후 우분투 설치
+![image](https://github.com/user-attachments/assets/989b2805-1882-4e0e-88c9-bee43c22288f)
+![image](https://github.com/user-attachments/assets/53194adc-9efc-4563-a6cd-bd4b18e393f0)
+![image](https://github.com/user-attachments/assets/aab2c71b-eced-46a8-a41b-b735c77b7734)
