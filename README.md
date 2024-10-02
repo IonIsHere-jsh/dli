@@ -24,12 +24,12 @@
 ![화면 캡처 2024-09-25 160244](https://github.com/user-attachments/assets/5eaf3725-e385-4ce7-b3f7-d62533d6f838)
 ![화면 캡처 2024-09-25 160208](https://github.com/user-attachments/assets/9b240b67-1993-4986-961a-2e1574a537eb)
 
-<b? jeppack4.6 download 후 우분투 설치
+<b> jeppack4.6 download 후 우분투 설치
 ![image](https://github.com/user-attachments/assets/989b2805-1882-4e0e-88c9-bee43c22288f)
 ![image](https://github.com/user-attachments/assets/53194adc-9efc-4563-a6cd-bd4b18e393f0)
 ![image](https://github.com/user-attachments/assets/aab2c71b-eced-46a8-a41b-b735c77b7734)
 
-<b> 5. 쿨링팬 설치
+<b> 5. 쿨링팬 설치 (최대 출력 255)
 ``` bash
 sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ```
@@ -46,7 +46,8 @@ nvgstcapture-1.0 --mode=2 --camsrc=0 --cap-dev-node=0
 1
 0
 ```
-#####  이곳에 사진 넣고 영상 넣을 것  참고 링크 https://ndb796.tistory.com/557
+![image](https://github.com/user-attachments/assets/b4917710-334c-4cb6-81d1-a79c28027dac)
+
 
 
 <b>  7. 한글 설치 , reboot 한 후 오른쪽 하단 키보드 모양을 오른쪽 마우스 클릭→ configure click
