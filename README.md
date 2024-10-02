@@ -79,7 +79,7 @@ dli@dli-desktop:~$ sudo docker run --runtime nvidia -it --rm --network host \
 
 
 ![image](https://github.com/user-attachments/assets/634eaeeb-1a8f-4bff-a953-55663eef1c7e)
-
+<img width="80%" src="https://github.com/user-attachments/assets/ba459bc2-bbce-4202-8442-c7c6eaa2794b"/>
 카메라 없어서 생기는 에러로 카메라 연결하고 다시 명령한다
 dli@dli-desktop:~$ sudo docker run --runtime nvidia -it --rm --network host \
 >     --memory=500M --memory-swap=4G \
